@@ -1,4 +1,3 @@
-import "https://deno.land/x/dotenv/load.ts";
 import chalk from "https://deno.land/x/chalk_deno@v4.1.1-deno/source/index.js";
 import getClients from "./util/get-clients.ts";
 
